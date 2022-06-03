@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cd9a3bb38b6d944fb1047879e5ffad8, type: 3}
+  m_Name: Kakao
+  m_EditorClassIdentifier: 
+  itemData:
+    objectID: 3
+    objectName: Kakao
+  type: 4
+  Sprite:
+  - {fileID: 21300000, guid: 80ba56a2ef58fe540a0867a4e89118b1, type: 3}
+  - {fileID: 21300000, guid: 6ff1064f253e4fb44a38d9288f70656e, type: 3}
+  - {fileID: 21300000, guid: 965d00af1e909ff4e934a36a71ea2cf5, type: 3}
+  - {fileID: 21300000, guid: 2d2ee4e074759f34b811fc38898d92f5, type: 3}
+  - {fileID: 21300000, guid: 9fcccdf19e19f3e44b6e494dbcae4d00, type: 3}
+  - {fileID: 21300000, guid: f34440c03f245834bb997e5308b8807d, type: 3}
+  - {fileID: 21300000, guid: 39feb0768b7ad274b8a830f36c215975, type: 3}

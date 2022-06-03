@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cd9a3bb38b6d944fb1047879e5ffad8, type: 3}
+  m_Name: Portakal
+  m_EditorClassIdentifier: 
+  itemData:
+    objectID: 2
+    objectName: Portakal
+  type: 3
+  Sprite:
+  - {fileID: 21300000, guid: e03caeef115e43142a0d9725d1f8af72, type: 3}
+  - {fileID: 21300000, guid: a605ddf77e25cd548b9e55139f986526, type: 3}
+  - {fileID: 21300000, guid: 50b0322978b80dd498694f3eed2f2733, type: 3}
+  - {fileID: 21300000, guid: 63311d5a9c07ff64e81ac12c023dad3a, type: 3}
+  - {fileID: 21300000, guid: a7f805b26e13a4a4f9293e96554ba681, type: 3}
+  - {fileID: 21300000, guid: 8f8a8427f8523f040bdf3af33185ef7c, type: 3}
+  - {fileID: 21300000, guid: 8b13cd8abd122554f9bb9165ad6e9450, type: 3}
